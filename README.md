@@ -3,7 +3,7 @@ Here in polynomial regression method of development  totally on the basis of pol
 The dataset is about red blood cells present in humans with respect to their age 
 Now rbc values have to be predicted on the basis of their age
 Independent varables are fitted with polynomial features by importing required libraries and functions 
-Evenn by visualizing linear regression results polynomial regression visualization is evaluated 
+Even by visualizing linear regression results polynomial regression visualization is evaluated 
 
 Polynomial regression is a type of regression analysis in machine learning where the relationship between the independent variable(s) and the dependent variable is modeled as an nth-degree polynomial. It extends the concept of linear regression by allowing for more complex relationships between the variables.
 
